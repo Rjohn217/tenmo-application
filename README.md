@@ -2,8 +2,6 @@
 
 Tenmo is a peer-to-peer (P2P) money transfer application that allows users to send, request, and approve money transfers. The front-end is a command-line interface (CLI) communicating with a RESTful API server in the back-end. This project was completed as a capstone project for Merit America's Java Web Development program by a team of 4.
 
-Table of Contents
-
 Features
 Installation
 Usage
