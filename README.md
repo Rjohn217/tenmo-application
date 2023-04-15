@@ -19,9 +19,9 @@ git clone https://github.com/rjohn217/tenmo-application.git
 
 3. Build the project using Maven.
 
-4. Start the back-end server by running app.java.
+4. Start the back-end server by running TenmoApplication.java.
 
-5. Start the front-end CLI by running app.java.
+5. Start the front-end CLI by running App.java.
 
 ## Usage
 The CLI will guide you through the available options:
